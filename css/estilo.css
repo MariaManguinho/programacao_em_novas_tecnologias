@@ -1,0 +1,30 @@
+body{
+    font-family: arial, sans-serif;
+    background: #ccc;
+    margin: 0;
+}
+.menu{
+    float: right;
+    margin: 20px;
+}
+.item{
+    background-color: black;
+    color: #fff;
+}
+.banner{
+    background-color: aqua;
+    height: 500px;
+}
+.container{
+    width: 80%;
+    background-color: #fff;
+    height: 500px;
+    margin-left: 10%;
+}
+.conteudo{
+    text-align: justify;
+    margin-left: 25px;
+}
+.imagem{
+    float: left;
+}
